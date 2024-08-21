@@ -1,0 +1,788 @@
+All Affine Possiblies
+under val a: 3
+
+under val a: 5
+
+under val a: 7
+
+under val a: 9and under b: -7EADFZQ
+
+
+under val a: 11
+
+under val a: 15and under b: -5EMTPBG
+
+
+under val a: 17and under b: -13EIFDJS
+
+
+under val a: 19and under b: -21EYJZDW
+
+
+under val a: 21and under b: -3EGLXNY
+
+
+under val a: 23and under b: -11EQHBTU
+
+
+under val a: 25
+
+under val a: 3
+
+under val a: 5and under b: -14TRMAKZ
+
+
+under val a: 7and under b: 0TZOYUB
+
+
+under val a: 9and under b: -12TPSUOF
+
+
+under val a: 11and under b: -24TLEIWR
+
+
+under val a: 15and under b: -22TBIEQV
+
+
+under val a: 17and under b: -8TXUSYH
+
+
+under val a: 19and under b: -20TNYOSL
+
+
+under val a: 21and under b: -6TVAMCN
+
+
+under val a: 23and under b: -18TFWQIJ
+
+
+under val a: 25and under b: -4TDCKMP
+
+
+under val a: 3and under b: 3AOXDLK
+
+
+under val a: 5and under b: 3AYTHRG
+
+
+under val a: 7
+
+under val a: 9
+
+under val a: 11
+
+under val a: 15and under b: 3AIPLXC
+
+
+under val a: 17
+
+under val a: 19
+
+under val a: 21
+
+under val a: 23
+
+under val a: 25
+
+under val a: 3and under b: -13OCLRZY
+
+
+under val a: 5and under b: -15OMHVFU
+
+
+under val a: 7and under b: -17OUJTPW
+
+
+under val a: 9
+
+under val a: 11and under b: -21OGZDRM
+
+
+under val a: 15and under b: -25OWDZLQ
+
+
+under val a: 17and under b: -1OSPNTC
+
+
+under val a: 19and under b: -3OITJNG
+
+
+under val a: 21and under b: -5OQVHXI
+
+
+under val a: 23and under b: -7OARLDE
+
+
+under val a: 25and under b: -9OYXFHK
+
+
+under val a: 3
+
+under val a: 5and under b: -11IGBPZO
+
+
+under val a: 7and under b: -1IODNJQ
+
+
+under val a: 9and under b: -17IEHJDU
+
+
+under val a: 11and under b: -7IATXLG
+
+
+under val a: 15and under b: -13IQXTFK
+
+
+under val a: 17and under b: -3IMJHNW
+
+
+under val a: 19
+
+under val a: 21and under b: -9IKPBRC
+
+
+under val a: 23and under b: -25IULFXY
+
+
+under val a: 25and under b: -15ISRZBE
+
+
+under val a: 3and under b: -10NBKQYX
+
+
+under val a: 5and under b: -10NLGUET
+
+
+under val a: 7and under b: -10NTISOV
+
+
+under val a: 9and under b: -10NJMOIZ
+
+
+under val a: 11and under b: -10NFYCQL
+
+
+under val a: 15and under b: -10NVCYKP
+
+
+under val a: 17
+
+under val a: 19and under b: -10NHSIMF
+
+
+under val a: 21and under b: -10NPUGWH
+
+
+under val a: 23and under b: -10NZQKCD
+
+
+under val a: 25and under b: -10NXWEGJ
+
+
+under val a: 3
+
+under val a: 5and under b: -9SQLZJY
+
+
+under val a: 7
+
+under val a: 9and under b: -3SORTNE
+
+
+under val a: 11and under b: -13SKDHVQ
+
+
+under val a: 15and under b: -7SAHDPU
+
+
+under val a: 17and under b: -17SWTRXG
+
+
+under val a: 19and under b: -1SMXNRK
+
+
+under val a: 21and under b: -11SUZLBM
+
+
+under val a: 23and under b: -21SEVPHI
+
+
+under val a: 25and under b: -5SCBJLO
+
+
+under val a: 3
+
+under val a: 5and under b: -6HFAOYN
+
+
+under val a: 7and under b: -20HNCMIP
+
+
+under val a: 9and under b: -8HDGICT
+
+
+under val a: 11and under b: -22HZSWKF
+
+
+under val a: 15and under b: -24HPWSEJ
+
+
+under val a: 17and under b: -12HLIGMV
+
+
+under val a: 19and under b: 0HBMCGZ
+
+
+under val a: 21
+
+under val a: 23and under b: -2HTKEWX
+
+
+under val a: 25and under b: -16HRQYAD
+
+
+under val a: 3
+
+under val a: 5and under b: -4RPKYIX
+
+
+under val a: 7and under b: -12RXMWSZ
+
+
+under val a: 9
+
+under val a: 11and under b: -2RJCGUP
+
+
+under val a: 15and under b: -18RZGCOT
+
+
+under val a: 17and under b: 0RVSQWF
+
+
+under val a: 19and under b: -8RLWMQJ
+
+
+under val a: 21and under b: -16RTYKAL
+
+
+under val a: 23and under b: -24RDUOGH
+
+
+under val a: 25and under b: -6RBAIKN
+
+
+under val a: 3and under b: 20DRAGON
+
+
+under val a: 5
+
+under val a: 7
+
+under val a: 9
+
+under val a: 11
+
+under val a: 15and under b: -16DLSOAF
+
+
+under val a: 17and under b: -22DHECIR
+
+
+under val a: 19and under b: -2DXIYCV
+
+
+under val a: 21and under b: -8DFKWMX
+
+
+under val a: 23and under b: -14DPGAST
+
+
+under val a: 25and under b: -20DNMUWZ
+
+
+under val a: 3and under b: -4LZIOWV
+
+
+under val a: 5and under b: 0LJESCR
+
+
+under val a: 7and under b: -22LRGQMT
+
+
+under val a: 9and under b: -18LHKMGX
+
+
+under val a: 11and under b: -14LDWAOJ
+
+
+under val a: 15and under b: -6LTAWIN
+
+
+under val a: 17and under b: -2LPMKQZ
+
+
+under val a: 19and under b: -24LFQGKD
+
+
+under val a: 21and under b: -20LNSEUF
+
+
+under val a: 23
+
+under val a: 25and under b: -12LVUCEH
+
+
+under val a: 3
+
+under val a: 5
+
+under val a: 7
+
+under val a: 9
+
+under val a: 11and under b: 7CUNRFA
+
+
+under val a: 15and under b: -1CKRNZE
+
+
+under val a: 17and under b: -5CGDBHQ
+
+
+under val a: 19and under b: -9CWHXBU
+
+
+under val a: 21and under b: -13CEJVLW
+
+
+under val a: 23and under b: -17COFZRS
+
+
+under val a: 25and under b: -21CMLTVY
+
+
+under val a: 3
+
+under val a: 5
+
+under val a: 7
+
+under val a: 9and under b: -21UQTVPG
+
+
+under val a: 11and under b: -9UMFJXS
+
+
+under val a: 15and under b: -11UCJFRW
+
+
+under val a: 17and under b: -25UYVTZI
+
+
+under val a: 19and under b: -13UOZPTM
+
+
+under val a: 21and under b: -1UWBNDO
+
+
+under val a: 23and under b: -15UGXRJK
+
+
+under val a: 25and under b: -3UEDLNQ
+
+
+under val a: 3and under b: -7MAJPXW
+
+
+under val a: 5and under b: -5MKFTDS
+
+
+under val a: 7and under b: -3MSHRNU
+
+
+under val a: 9and under b: -1MILNHY
+
+
+under val a: 11and under b: -25MEXBPK
+
+
+under val a: 15and under b: -21MUBXJO
+
+
+under val a: 17
+
+under val a: 19and under b: -17MGRHLE
+
+
+under val a: 21and under b: -15MOTFVG
+
+
+under val a: 23and under b: -13MYPJBC
+
+
+under val a: 25and under b: -11MWVDFI
+
+
+under val a: 3
+
+under val a: 5
+
+under val a: 7
+
+under val a: 9and under b: -13WSVXRI
+
+
+under val a: 11and under b: -5WOHLZU
+
+
+under val a: 15and under b: -15WELHTY
+
+
+under val a: 17and under b: -7WAXVBK
+
+
+under val a: 19and under b: -25WQBRVO
+
+
+under val a: 21and under b: -17WYDPFQ
+
+
+under val a: 23and under b: -9WIZTLM
+
+
+under val a: 25and under b: -1WGFNPS
+
+
+under val a: 3
+
+under val a: 5
+
+under val a: 7and under b: -6FLAKGN
+
+
+under val a: 9and under b: -16FBEGAR
+
+
+under val a: 11and under b: 0FXQUID
+
+
+under val a: 15and under b: -20FNUQCH
+
+
+under val a: 17and under b: -4FJGEKT
+
+
+under val a: 19and under b: -14FZKAEX
+
+
+under val a: 21and under b: -24FHMYOZ
+
+
+under val a: 23and under b: -8FRICUV
+
+
+under val a: 25
+
+under val a: 3
+
+under val a: 5and under b: -1GEZNXM
+
+
+under val a: 7and under b: -13GMBLHO
+
+
+under val a: 9and under b: -25GCFHBS
+
+
+under val a: 11and under b: -11GYRVJE
+
+
+under val a: 15and under b: -9GOVRDI
+
+
+under val a: 17and under b: -21GKHFLU
+
+
+under val a: 19and under b: -7GALBFY
+
+
+under val a: 21
+
+under val a: 23and under b: -5GSJDVW
+
+
+under val a: 25and under b: -17GQPXZC
+
+
+under val a: 3
+
+under val a: 5
+
+under val a: 7and under b: -9YETDZG
+
+
+under val a: 9and under b: -5YUXZTK
+
+
+under val a: 11and under b: -1YQJNBW
+
+
+under val a: 15
+
+under val a: 17and under b: -15YCZXDM
+
+
+under val a: 19and under b: -11YSDTXQ
+
+
+under val a: 21and under b: -7YAFRHS
+
+
+under val a: 23and under b: -3YKBVNO
+
+
+under val a: 25and under b: -25YIHPRU
+
+
+under val a: 3and under b: -16PDMSAZ
+
+
+under val a: 5and under b: -20PNIWGV
+
+
+under val a: 7and under b: -24PVKUQX
+
+
+under val a: 9
+
+under val a: 11and under b: -6PHAESN
+
+
+under val a: 15and under b: -14PXEAMR
+
+
+under val a: 17and under b: -18PTQOUD
+
+
+under val a: 19and under b: -22PJUKOH
+
+
+under val a: 21and under b: 0PRWIYJ
+
+
+under val a: 23and under b: -4PBSMEF
+
+
+under val a: 25and under b: -8PZYGIL
+
+
+under val a: 3and under b: 0BPYEML
+
+
+under val a: 5
+
+under val a: 7
+
+under val a: 9and under b: 20BXACWN
+
+
+under val a: 11
+
+under val a: 15
+
+under val a: 17
+
+under val a: 19
+
+under val a: 21
+
+under val a: 23
+
+under val a: 25
+
+under val a: 3
+
+under val a: 5
+
+under val a: 7
+
+under val a: 9and under b: -4VRUWQH
+
+
+under val a: 11and under b: -20VNGKYT
+
+
+under val a: 15and under b: 0VDKGSX
+
+
+under val a: 17and under b: -16VZWUAJ
+
+
+under val a: 19and under b: -6VPAQUN
+
+
+under val a: 21and under b: -22VXCOEP
+
+
+under val a: 23and under b: -12VHYSKL
+
+
+under val a: 25and under b: -2VFEMOR
+
+
+under val a: 3and under b: -1KYHNVU
+
+
+under val a: 5and under b: -21KIDRBQ
+
+
+under val a: 7and under b: -15KQFPLS
+
+
+under val a: 9and under b: -9KGJLFW
+
+
+under val a: 11and under b: -3KCVZNI
+
+
+under val a: 15and under b: -17KSZVHM
+
+
+under val a: 17and under b: -11KOLJPY
+
+
+under val a: 19and under b: -5KEPFJC
+
+
+under val a: 21and under b: -25KMRDTE
+
+
+under val a: 23
+
+under val a: 25and under b: -13KUTBDG
+
+
+under val a: 3
+
+under val a: 5and under b: -16JHCQAP
+
+
+under val a: 7and under b: -8JPEOKR
+
+
+under val a: 9and under b: 0JFIKEV
+
+
+under val a: 11and under b: -18JBUYMH
+
+
+under val a: 15and under b: -2JRYUGL
+
+
+under val a: 17and under b: -20JNKIOX
+
+
+under val a: 19
+
+under val a: 21and under b: -4JLQCSD
+
+
+under val a: 23and under b: -22JVMGYZ
+
+
+under val a: 25and under b: -14JTSACF
+
+
+under val a: 3
+
+under val a: 5
+
+under val a: 7and under b: -2XDSCYF
+
+
+under val a: 9and under b: -22XTWYSJ
+
+
+under val a: 11and under b: -16XPIMAV
+
+
+under val a: 15and under b: -4XFMIUZ
+
+
+under val a: 17and under b: -24XBYWCL
+
+
+under val a: 19and under b: -18XRCSWP
+
+
+under val a: 21and under b: -12XZEQGR
+
+
+under val a: 23and under b: -6XJAUMN
+
+
+under val a: 25and under b: 0XHGOQT
+
+
+under val a: 3
+
+under val a: 5and under b: -25QOJXHW
+
+
+under val a: 7and under b: -5QWLVRY
+
+
+under val a: 9
+
+under val a: 11and under b: -17QIBFTO
+
+
+under val a: 15and under b: -3QYFBNS
+
+
+under val a: 17and under b: -9QURPVE
+
+
+under val a: 19and under b: -15QKVLPI
+
+
+under val a: 21and under b: -21QSXJZK
+
+
+under val a: 23and under b: -1QCTNFG
+
+
+under val a: 25and under b: -7QAZHJM
+
+
+under val a: 3
+
+under val a: 5
+
+under val a: 7and under b: -16ZFUEAH
+
+
+under val a: 9and under b: -14ZVYAUL
+
+
+under val a: 11and under b: -12ZRKOCX
+
+
+under val a: 15
+
+under val a: 17and under b: -6ZDAYEN
+
+
+under val a: 19and under b: -4ZTEUYR
+
+
+under val a: 21and under b: -2ZBGSIT
+
+
+under val a: 23and under b: 0ZLCWOP
+
+
+under val a: 25and under b: -24ZJIQSV
+
+
