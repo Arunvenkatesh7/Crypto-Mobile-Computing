@@ -131,5 +131,5 @@ int main(){
     string cipherText="DTUMKH";
     ofstream file("affine_res.txt");
     AffineAttack(cipherText,file);
-
+    
 }

@@ -274,7 +274,6 @@ under val a: 25and under b: -6RBAIKN
 
 under val a: 3and under b: 20DRAGON
 
-
 under val a: 5
 
 under val a: 7

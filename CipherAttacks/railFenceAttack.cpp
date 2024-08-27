@@ -60,7 +60,7 @@ string Decrypt(vector<vector<char>> &matrix){
     int row=0;
     bool down=false;
     string dec="s";
-    cout<<"hola"<<endl;
+   
     for(int col=0;col<matrix[0].size();col++){
         if(row==0 ||row==matrix.size()-1){
             down=!down;

@@ -1,50 +1,43 @@
-#client.py
 import socket
 
+# Function to decrypt the message using Caesar cipher
+def caesar_cipher_decrypt(encrypted_text, shift):
+    decrypted_text = ""
+    for char in encrypted_text:
+        if char.isalpha():
+            shift_base = ord('A') if char.isupper() else ord('a')
+            decrypted_text += chr((ord(char) - shift_base - shift) % 26 + shift_base)
+        else:
+            decrypted_text += char  # Non-alphabet characters remain unchanged
+    return decrypted_text
 
-def Brute_Force(cipherText):
-    
-    for key in range(0,25):
-        dec=""
-        for char in cipherText:
-            base=65 if char.isupper() else 97
-            if char.isalpha():    
-                dec+=chr(((ord(char)-base-key+26)%26)+base)
-            else:
-                dec+=char
-        print(f"decrypted for key{key}: ",dec)
+def client_program():
+    # Client setup
+    host = '127.0.0.1'
+    port = 65432
 
+    # Create and connect the socket
+    client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    client_socket.connect((host, port))
 
-def client():
-    client_socket = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
-    
-    host='127.0.0.1'
-    port=7956 
-    
-    client_socket.connect((host,port))
-    
-    print("server is connected!!!")
-    
-    encrypted_msg=client_socket.recv(1024).decode()
-    
-    print("Received Encrypted Text: ",encrypted_msg)
-    
-    print("Applying Brute Force!!!: ")
-    
-    Brute_Force(encrypted_msg)
-    
-    
-    
-    
+    # Receive the encrypted message from the server
+    encrypted_message = client_socket.recv(1024).decode()
+    print(f"Encrypted message received from server: {encrypted_message}")
 
+    # Receive the key from the server
+    key_message = client_socket.recv(1024).decode()
+    if key_message.startswith("KEY:"):
+        shift_key = int(key_message.split(":")[1])
+        print(f"Key received from server: {shift_key}")
 
-if __name__=="__main__":      
-    client()
-            
-            
-            
-        
-        
-        
-        
+        # Decrypt the message using the received key
+        decrypted_message = caesar_cipher_decrypt(encrypted_message, shift_key)
+        print(f"Decrypted message: {decrypted_message}")
+    else:
+        print("Key not received or intercepted!")
 
+    # Close the connection
+    client_socket.close()
+
+if __name__ == "__main__":
+    client_program()
